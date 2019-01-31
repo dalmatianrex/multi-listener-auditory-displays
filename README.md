@@ -1,6 +1,6 @@
 # multi-listener-auditory-displays
 
-This repository provides a permanent record of activities undertaken for my PhD research.
+This repository provides a permanent record of activities undertaken for my PhD research at the University of York, Uk.
 
 # PhD Thesis
 
@@ -20,7 +20,7 @@ todo
 
 # Multi listener sonification data
 
-# Virtual Auditory Display Team data
+# Virtual auditory display team data
 
 
 
