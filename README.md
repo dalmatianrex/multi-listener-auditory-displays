@@ -1,10 +1,10 @@
-# multi-listener-auditory-displays
+# Multi-listener Auditory Displays
 
-This repository provides a permanent record of activities undertaken for my PhD research at the University of York, Uk.
+This repository provides a permanent record of activities undertaken for Paul Lunn's PhD research at the University of York, Uk.
 
 # PhD Thesis
 
-You can download a copy of my PhD thesis from [Here]()
+You can download a copy of my PhD thesis from [here]()
 
 # Conference papers and workshops
 
