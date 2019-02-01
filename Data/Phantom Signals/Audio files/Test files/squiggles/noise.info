@@ -1,0 +1,5 @@
+// By <you> 16:20:39 - Feb 17, 2012
+
+CMD 300 	// Render
+SIZE 1000, 860
+PARMS 50.0000, 8000.0000, 10.00, 5.00 	// low, high, amp, time
