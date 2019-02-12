@@ -4,7 +4,7 @@ This repository provides a permanent record of activities undertaken for Paul Lu
 
 # PhD Thesis
 
-You can download a copy of my PhD thesis from [here]()
+You can download a copy of my PhD thesis from [here](https://github.com/dalmatianrex/multi-listener-auditory-displays/blob/master/Multi_listener_auditory_displays_07_02_19.pdf)
 
 # Conference papers and workshops
 
